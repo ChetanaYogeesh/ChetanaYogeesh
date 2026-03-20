@@ -1,6 +1,6 @@
 # Hi, I'm Chetana Yogeesh 👋
 
-**Go-to-Market · Customer Solutions · Engineering & Analytics** 📍 San Francisco, CA
+**Turning Data into Go-to-Market Decisions | Analytics · Engineering · Customer Solutions** 📍 San Francisco, CA
 
 ---
 
