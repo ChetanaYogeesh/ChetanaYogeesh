@@ -12,14 +12,14 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - 🔭 Currently working at **H-E-B**
 - 🌱 Exploring **Generative AI** application development and **Model Context Protocol (MCP)** integrations
 - 💡 Passionate about data quality, scalable pipelines, and data-driven decision making
-- 🛠️ Building with **dbt · Python · SQL · Spark · Streamlit · AWS**
+- 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 **Data Engineering**
-`Python` `Apache Spark` `AWS Glue` `AWS DMS` `Databricks` `Change Data Capture (CDC)`
+`Python` `AWS Glue` `Databricks` `Change Data Capture (CDC)`
 
 **Analytics Engineering**
 `dbt Core` `SQL` `PostgreSQL` `Snowflake` `BigQuery` `LookML`
