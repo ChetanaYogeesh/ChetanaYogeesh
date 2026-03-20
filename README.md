@@ -1,7 +1,6 @@
 # Hi, I'm Chetana Yogeesh 👋
 
-**Analytics Engineer · GTM Engineer**
-📍 San Francisco, CA
+**Go-to-Market · Customer Solutions · Engineering & Analytics** 📍 San Francisco, CA
 
 ---
 
