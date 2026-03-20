@@ -12,14 +12,14 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - 🔭 Currently working at **H-E-B**
 - 🌱 Exploring **Generative AI** application development and **Model Context Protocol (MCP)** integrations
 - 💡 Passionate about data quality, scalable pipelines, and data-driven decision making
-- 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS**
+- 🛠️ Building with **dbt · Python · SQL · Spark · Streamlit · AWS**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 **Data Engineering**
-`Python` `AWS Glue` `Databricks` `Change Data Capture (CDC)`
+`Python` `AWS Glue` `AWS DMS` `Databricks` `Change Data Capture (CDC)`
 
 **Analytics Engineering**
 `dbt Core` `SQL` `PostgreSQL` `Snowflake` `BigQuery` `LookML`
@@ -53,12 +53,21 @@ A production-ready ETL pipeline that extracts AI/ML research papers from the **O
 
 ---
 
-### 🏗️ [Portfolio Projects — Data Engineering & Analysis](https://github.com/ChetanaYogeesh/PortfolioProjects)
+### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
+A dedicated repository of Python-based data engineering work, organized by tooling and framework:
+- 📁 [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
+- 📁 [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
+
+- **Stack:** Python · Apache Airflow · SQL
+
+---
+
+### 📂 [Portfolio Projects — Data Engineering & Analysis](https://github.com/ChetanaYogeesh/PortfolioProjects)
 A collection of end-to-end data projects spanning multiple domains:
-- **Change Data Capture** pipeline using Databricks · AWS Glue · Spark · DMS
-- **Chicago Divvy Bike Data Analysis** — exploratory analysis of ride-share patterns
-- **Marketing Campaign Analysis** — performance analytics for campaign optimization
-- **MCP Weather Server** — Model Context Protocol server integration
+- 📁 [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
+- 📁 [**Chicago Divvy Bike Data Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Analysis/ChicagoDivvyBikeDataAnalysis) — exploratory analysis of ride-share patterns
+- 📁 [**Marketing Campaign Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/MarketingAnalytics/CampaignAnalysis) — performance analytics for campaign optimization
+- 📁 [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 
 - **Stack:** Python · Jupyter Notebook · Databricks · AWS · Spark
 
