@@ -15,25 +15,6 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 ---
 
-## 🛠️ Skills & Technologies
-
-**Data Engineering**
-`Python` `AWS Glue` `AWS DMS` `Databricks` `Change Data Capture (CDC)`
-
-**Analytics Engineering**
-`dbt Core` `SQL` `PostgreSQL` `Snowflake` `BigQuery` `LookML`
-
-**GTM & Marketing Analytics**
-`Facebook Ads` `Campaign Analytics` `Incrementality Analysis` `LTV Modeling` `ROI Analysis`
-
-**GenAI & App Development**
-`OpenAlex API` `Streamlit` `Neon (Serverless Postgres)` `MCP Servers` `Cursor AI`
-
-**Data Analysis & BI**
-`Jupyter Notebook` `Pandas` `Data Visualization` `Cohort Analysis`
-
----
-
 ## 🚀 Featured Projects
 
 ### 📊 [Analytics Engineering — Facebook Ads dbt Platform](https://github.com/ChetanaYogeesh/AnalyticsEngineering)
@@ -75,6 +56,24 @@ A collection of end-to-end data projects spanning multiple domains:
 ### 📈 [Business Analysis](https://github.com/ChetanaYogeesh/BusinessAnalysis)
 Business analysis frameworks, requirements documentation, and stakeholder-ready deliverables covering problem statements, success metrics, and strategic recommendations.
 
+---
+
+## 🛠️ Skills & Technologies
+
+**Data Engineering**
+`Python` `AWS Glue` `AWS DMS` `Databricks` `Change Data Capture (CDC)`
+
+**Analytics Engineering**
+`dbt Core` `SQL` `PostgreSQL` `Snowflake` `BigQuery` `LookML`
+
+**GTM & Marketing Analytics**
+`Facebook Ads` `Campaign Analytics` `Incrementality Analysis` `LTV Modeling` `ROI Analysis`
+
+**GenAI & App Development**
+`OpenAlex API` `Streamlit` `Neon (Serverless Postgres)` `MCP Servers` `Cursor AI`
+
+**Data Analysis & BI**
+`Jupyter Notebook` `Pandas` `Data Visualization` `Cohort Analysis`
 ---
 
 ## 📫 Connect With Me
