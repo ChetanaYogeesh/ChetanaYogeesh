@@ -52,7 +52,7 @@ A collection of end-to-end data projects spanning multiple domains:
 
 ---
 
-### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
+### [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
 A dedicated repository of Python-based data engineering work, organized by tooling and framework:
 -  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 -  [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
