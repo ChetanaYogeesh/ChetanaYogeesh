@@ -93,23 +93,11 @@ Three-page funnel dashboard tracking login attempt volumes, error message freque
 #### 4. [Call Detail Record (CDR) — Telecom Forensics Suite (Looker)](https://lookerstudio.google.com/reporting/a592fc9d-d083-42fc-b6ae-8f2b629d9df2/page/BIGgD)
 A 7-page investigative analytics suite built on raw CDR data. Covers call volume, duration metrics, dropped calls, SMSC messaging, geography/travel analysis, cell tower attribution, and network contact mapping.
 
-**Pages:**
-| Page | Focus |
-|---|---|
-| Call Details Record | Overview KPIs, city-level volume, pie charts for direction & completion |
-| Call Duration & Volume | Hourly + day-of-week volume/duration combo charts |
-| Dropped Calls Metrics | Dropped vs. completed breakdown, per-number drop table |
-| SMSC Metrics | SMS activity timeline, Sankey sender→receiver flow, weekly sent trend |
-| Geography — Travel Analysis | Address-level call table with tower distance (miles) |
-| Geography — Cell Tower Analysis | Hourly outgoing/incoming by city (SF, Oakland, Emeryville) |
-| Network — Frequent Contacts | Ranked contact table, Sankey incoming/outgoing flows |
-| Network — Call Patterns | Per-number daily heatmap matrix (Aug 26–29, 2021) |
-
 **KPIs:** 260 total calls · 103 incoming · 157 outgoing · 407.45 min duration · 36 dropped · 50 SMSC
 
 ---
 
-### 5. [Urban Crime Analytics Dashboard (Looker)](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
+#### 5. [Urban Crime Analytics Dashboard (Looker)](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
 
 Developed an end-to-end crime data analytics solution analyzing 32,000+ offense records spanning Jun 2017–Aug 2021 across 8 city zones.
 
