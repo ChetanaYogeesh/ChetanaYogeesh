@@ -8,10 +8,14 @@
 
 I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Market) Engineering, with hands-on experience building end-to-end data pipelines, marketing analytics platforms, and AI-powered applications. I thrive at the intersection of data infrastructure and business impact — translating raw data into actionable insights that drive growth.
 
-- 🔭 Currently working at **H-E-B**
 - 🌱 Exploring **Generative AI** application development and **Model Context Protocol (MCP)** integrations
 - 💡 Passionate about data quality, scalable pipelines, and data-driven decision making
 - 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS**
+- [Featured Projects](#featured-projects)
+- [Skills & Technologies](#-skills--technologies)
+- [Connect With Me](#-connect-with-me)
+
+
 
 ---
 
@@ -22,9 +26,6 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - [Data Analytics](#data-analytics)
 - [Business Intelligence & Analysis](#business-intelligence--analysis)
 - [Data Engineering Projects](#-data-engineering-projects)
-- [Skills & Technologies](#-skills--technologies)
-- [Connect With Me](#-connect-with-me)
-
 
 ### [Analytics Engineering — Facebook Ads dbt Platform](https://github.com/ChetanaYogeesh/AnalyticsEngineering)
 Migrated a marketing analytics platform from LookML to **dbt Core**, delivering a 299% ROI on $719K marketing spend analysis across 102K+ conversions and 15K acquired users. Built comprehensive business requirements, technical specs, and dbt models for acquisition and retargeting campaigns.
