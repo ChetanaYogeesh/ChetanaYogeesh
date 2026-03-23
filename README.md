@@ -33,15 +33,6 @@ A production-ready ETL pipeline that extracts AI/ML research papers from the **O
 
 ---
 
-### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
-A dedicated repository of Python-based data engineering work, organized by tooling and framework:
-- 📁 [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
-- 📁 [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
-
-- **Stack:** Python · Apache Airflow · SQL
-
----
-
 ### 📂 [Portfolio Projects — Data Engineering & Analysis](https://github.com/ChetanaYogeesh/PortfolioProjects)
 A collection of end-to-end data projects spanning multiple domains:
 - 📁 [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
@@ -53,8 +44,81 @@ A collection of end-to-end data projects spanning multiple domains:
 
 ---
 
-### 📈 [Business Analysis](https://github.com/ChetanaYogeesh/BusinessAnalysis)
-Business analysis frameworks, requirements documentation, and stakeholder-ready deliverables covering problem statements, success metrics, and strategic recommendations.
+### 📈 [Business Intelligence & Analysis](https://github.com/ChetanaYogeesh/BusinessAnalysis)
+Business analysis frameworks, requirements documentation, and stakeholder-ready deliverables covering problem statements, success metrics, and strategic recommendations. A collection of interactive business intelligence dashboards spanning retail sales, gaming analytics, SaaS sign-up optimization, and telecom forensics — built with **Tableau** and **Looke Studio**.
+
+---
+
+## Projects
+
+### 1. [Discount Mart — Sales Analytics (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/DiscountMart_17222863808830/DiscountMartDashboard)
+Retail sales dashboard for 2019 with year-over-year KPIs, monthly trend lines, category breakdowns, quantity distribution, and a geographic sales map across US states.
+
+**Key metrics:** $733.2K sales · $219,965 profit · 12,476 units  
+**Charts:** Line (monthly trend), horizontal bar (category), histogram (quantity bins), choropleth map
+
+---
+
+### 2. [Gaming & Retail — Multi-Dimensional Sales (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/ProfitVsSales_17244393861980/Dashboard2)
+Multi-view dashboard covering ship status heatmaps by quarter, sub-group profit/quantity/sales tables, moving average quantity trends, and a profit-vs-sales bubble scatter plot.
+
+**Spans:** 2019–2022 · $2.3M grand total  
+**Charts:** Crosstab heatmap, data table, dual-axis moving average, scatter/bubble plot  
+**Filters:** Grouping (Accessories, Consoles, Games) · Region (Central, East, South, West)
+
+---
+
+### 3. [Sign-Up Flow Optimization (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/signup_flow_story_17228961971500/Sign-UpFlowStory)
+Three-page funnel dashboard tracking login attempt volumes, error message frequencies, and device/OS breakdowns to identify friction in the registration flow.
+
+**Date range:** July 2022 – January 2023  
+**Highlights:** 217K email logins · 40K+ "invalid password" errors · LinkedIn & Facebook OAuth analysis  
+**Charts:** Vertical bar (login types), horizontal stacked bar (errors by type)
+
+---
+
+### 4. [Call Detail Record (CDR) — Telecom Forensics Suite (Looker)](https://lookerstudio.google.com/reporting/a592fc9d-d083-42fc-b6ae-8f2b629d9df2/page/BIGgD)
+A 7-page investigative analytics suite built on raw CDR data. Covers call volume, duration metrics, dropped calls, SMSC messaging, geography/travel analysis, cell tower attribution, and network contact mapping.
+
+**Pages:**
+| Page | Focus |
+|---|---|
+| Call Details Record | Overview KPIs, city-level volume, pie charts for direction & completion |
+| Call Duration & Volume | Hourly + day-of-week volume/duration combo charts |
+| Dropped Calls Metrics | Dropped vs. completed breakdown, per-number drop table |
+| SMSC Metrics | SMS activity timeline, Sankey sender→receiver flow, weekly sent trend |
+| Geography — Travel Analysis | Address-level call table with tower distance (miles) |
+| Geography — Cell Tower Analysis | Hourly outgoing/incoming by city (SF, Oakland, Emeryville) |
+| Network — Frequent Contacts | Ranked contact table, Sankey incoming/outgoing flows |
+| Network — Call Patterns | Per-number daily heatmap matrix (Aug 26–29, 2021) |
+
+**KPIs:** 260 total calls · 103 incoming · 157 outgoing · 407.45 min duration · 36 dropped · 50 SMSC
+
+### 5. [Urban Crime Analytics Dashboard (Looker)](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
+
+Developed an end-to-end crime data analytics solution analyzing 32,000+ offense records spanning Jun 2017–Aug 2021 across 8 city zones.
+
+📊 What I built:
+• 8-page interactive Power BI dashboard covering offense trends, incident types, zone analysis, larceny, homicide/rape categories, vehicle-related incidents, and statistical validation
+• Time-series analysis revealing peak crime hours (1–2 PM: 2,550 cases) and declining year-over-year trends (8,234 in 2019 → 4,375 in 2021)
+• Chi-square hypothesis testing confirming non-independence of key variables (p < 0.05 across 3 test scenarios)
+• Correlation matrix identifying Z3's strong relationship with vehicle-related incidents and homicide, and Z5's proximity to larceny offenses
+
+📍 Key findings:
+• Larceny dominates at 28% of all cases; 23C is the leading incident type across all categories
+• Vehicle-related incidents represent only 7% of total cases with a downward trend
+• Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights
+
+🛠 Tools: Looker, Statistical Hypothesis Testing (Chi-Square), Correlation Analysis
+
+---
+
+### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
+A dedicated repository of Python-based data engineering work, organized by tooling and framework:
+- 📁 [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
+- 📁 [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
+
+- **Stack:** Python · Apache Airflow · SQL
 
 ---
 
