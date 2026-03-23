@@ -15,7 +15,7 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 ---
 
-## 📑 Featured Projects
+## Featured Projects
 
 - [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
 - [GenAI App Development — AI Academic Papers Tracker](#genai-app-development--ai-academic-papers-tracker)
