@@ -99,15 +99,15 @@ A 7-page investigative analytics suite built on raw CDR data. Covers call volume
 
 Developed an end-to-end crime data analytics solution analyzing 32,000+ offense records spanning Jun 2017–Aug 2021 across 8 city zones.
 
-> 8-page interactive Power BI dashboard covering offense trends, incident types, zone analysis, larceny, homicide/rape categories, vehicle-related incidents, and statistical validation
-> Time-series analysis revealing peak crime hours (1–2 PM: 2,550 cases) and declining year-over-year trends (8,234 in 2019 → 4,375 in 2021
-> Chi-square hypothesis testing confirming non-independence of key variables (p < 0.05 across 3 test scenarios)
+> 8-page interactive Power BI dashboard covering offense trends, incident types, zone analysis, larceny, homicide/rape categories, vehicle-related incidents, and statistical validation  <br>
+> Time-series analysis revealing peak crime hours (1–2 PM: 2,550 cases) and declining year-over-year trends (8,234 in 2019 → 4,375 in 2021  <br>
+> Chi-square hypothesis testing confirming non-independence of key variables (p < 0.05 across 3 test scenarios)  <br>
 > Correlation matrix identifying Z3's strong relationship with vehicle-related incidents and homicide, and Z5's proximity to larceny offenses
 
 **Key findings:**
-• Larceny dominates at 28% of all cases; 23C is the leading incident type across all categories
-• Vehicle-related incidents represent only 7% of total cases with a downward trend
-• Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights
+> Larceny dominates at 28% of all cases; 23C is the leading incident type across all categories <br>
+> Vehicle-related incidents represent only 7% of total cases with a downward trend  <br>
+> Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights  
 
 🛠 Tools: Looker, Statistical Hypothesis Testing (Chi-Square), Correlation Analysis
 
