@@ -13,6 +13,7 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS**
   
 [Featured Projects](#featured-projects)&nbsp;&nbsp;&nbsp; [Skills & Technologies](#-skills--technologies)&nbsp;&nbsp;&nbsp;  [Connect With Me](#-connect-with-me)
+
 ---
 
 ## Featured Projects
