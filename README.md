@@ -17,9 +17,9 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 ## 📑 Featured Projects
 
-- [Analytics Engineering — Facebook Ads dbt Platform]
-- [GenAI App Development — AI Academic Papers Tracker]
-- [Data Analytics]
+- [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
+- [GenAI App Development — AI Academic Papers Tracker](#genai-app-development--ai-academic-papers-tracker)
+- [Data Analytics](#data-analytics)
 - [Business Intelligence & Analysis](#business-intelligence--analysis)
 - [Data Engineering Projects](#-data-engineering-projects)
 - [Skills & Technologies](#-skills--technologies)
@@ -46,7 +46,6 @@ A production-ready ETL pipeline that extracts AI/ML research papers from the **O
 A collection of end-to-end data projects spanning multiple domains:
 -  [**Chicago Divvy Bike Data Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Analysis/ChicagoDivvyBikeDataAnalysis) — exploratory analysis of ride-share patterns
 -  [**Marketing Campaign Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/MarketingAnalytics/CampaignAnalysis) — performance analytics for campaign optimization
--  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 
 - **Stack:** Python · Jupyter Notebook · Databricks · AWS · Spark
 
@@ -120,6 +119,7 @@ Developed an end-to-end crime data analytics solution analyzing 32,000+ offense 
 
 ### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
 A dedicated repository of Python-based data engineering work, organized by tooling and framework:
+-  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 -  [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
 -  [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
 -  [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
