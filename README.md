@@ -10,7 +10,7 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 - 🌱 Exploring **Generative AI** application development and **Model Context Protocol (MCP)** integrations
 - 💡 Passionate about data quality, scalable pipelines, and data-driven decision making
-- 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS**
+- 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS · Looker · Tableau**
   
 [Featured Projects](#featured-projects)&nbsp;&nbsp;&nbsp; [Skills & Technologies](#-skills--technologies)&nbsp;&nbsp;&nbsp;  [Connect With Me](#-connect-with-me)
 
