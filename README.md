@@ -15,9 +15,9 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 [Analytics Engineering — Facebook Ads dbt Platform](https://github.com/ChetanaYogeesh/AnalyticsEngineering)
+### [Analytics Engineering — Facebook Ads dbt Platform](https://github.com/ChetanaYogeesh/AnalyticsEngineering)
 Migrated a marketing analytics platform from LookML to **dbt Core**, delivering a 299% ROI on $719K marketing spend analysis across 102K+ conversions and 15K acquired users. Built comprehensive business requirements, technical specs, and dbt models for acquisition and retargeting campaigns.
 
 - **Stack:** Python · dbt · PostgreSQL · Snowflake · GitHub Actions
@@ -25,7 +25,7 @@ Migrated a marketing analytics platform from LookML to **dbt Core**, delivering 
 
 ---
 
-### 🤖 [GenAI App Development — AI Academic Papers Tracker](https://github.com/ChetanaYogeesh/GenAIAppDevelopment)
+### [GenAI App Development — AI Academic Papers Tracker](https://github.com/ChetanaYogeesh/GenAIAppDevelopment)
 A production-ready ETL pipeline that extracts AI/ML research papers from the **OpenAlex API**, stores deduplicated data in a serverless PostgreSQL database (Neon), and visualizes results via an interactive **Streamlit** dashboard.
 
 - **Stack:** Python · OpenAlex API · Neon (PostgreSQL) · Streamlit · Cursor AI
@@ -33,23 +33,19 @@ A production-ready ETL pipeline that extracts AI/ML research papers from the **O
 
 ---
 
-### 📂 [Portfolio Projects — Data Engineering & Analysis](https://github.com/ChetanaYogeesh/PortfolioProjects)
+### [Portfolio Projects — Data Engineering & Analysis](https://github.com/ChetanaYogeesh/PortfolioProjects)
 A collection of end-to-end data projects spanning multiple domains:
-- 📁 [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
-- 📁 [**Chicago Divvy Bike Data Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Analysis/ChicagoDivvyBikeDataAnalysis) — exploratory analysis of ride-share patterns
-- 📁 [**Marketing Campaign Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/MarketingAnalytics/CampaignAnalysis) — performance analytics for campaign optimization
-- 📁 [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
+-  [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
+-  [**Chicago Divvy Bike Data Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Analysis/ChicagoDivvyBikeDataAnalysis) — exploratory analysis of ride-share patterns
+-  [**Marketing Campaign Analysis**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/MarketingAnalytics/CampaignAnalysis) — performance analytics for campaign optimization
+-  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 
 - **Stack:** Python · Jupyter Notebook · Databricks · AWS · Spark
 
 ---
 
-### 📈 [Business Intelligence & Analysis](https://github.com/ChetanaYogeesh/BusinessAnalysis)
+###  [Business Intelligence & Analysis](https://github.com/ChetanaYogeesh/BusinessAnalysis)
 Business analysis frameworks, requirements documentation, and stakeholder-ready deliverables covering problem statements, success metrics, and strategic recommendations. A collection of interactive business intelligence dashboards spanning retail sales, gaming analytics, SaaS sign-up optimization, and telecom forensics — built with **Tableau** and **Looke Studio**.
-
----
-
-## Projects
 
 ### 1. [Discount Mart — Sales Analytics (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/DiscountMart_17222863808830/DiscountMartDashboard)
 Retail sales dashboard for 2019 with year-over-year KPIs, monthly trend lines, category breakdowns, quantity distribution, and a geographic sales map across US states.
@@ -94,17 +90,18 @@ A 7-page investigative analytics suite built on raw CDR data. Covers call volume
 
 **KPIs:** 260 total calls · 103 incoming · 157 outgoing · 407.45 min duration · 36 dropped · 50 SMSC
 
+---
+
 ### 5. [Urban Crime Analytics Dashboard (Looker)](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
 
 Developed an end-to-end crime data analytics solution analyzing 32,000+ offense records spanning Jun 2017–Aug 2021 across 8 city zones.
 
-📊 What I built:
-• 8-page interactive Power BI dashboard covering offense trends, incident types, zone analysis, larceny, homicide/rape categories, vehicle-related incidents, and statistical validation
-• Time-series analysis revealing peak crime hours (1–2 PM: 2,550 cases) and declining year-over-year trends (8,234 in 2019 → 4,375 in 2021)
-• Chi-square hypothesis testing confirming non-independence of key variables (p < 0.05 across 3 test scenarios)
-• Correlation matrix identifying Z3's strong relationship with vehicle-related incidents and homicide, and Z5's proximity to larceny offenses
+> 8-page interactive Power BI dashboard covering offense trends, incident types, zone analysis, larceny, homicide/rape categories, vehicle-related incidents, and statistical validation
+> Time-series analysis revealing peak crime hours (1–2 PM: 2,550 cases) and declining year-over-year trends (8,234 in 2019 → 4,375 in 2021
+> Chi-square hypothesis testing confirming non-independence of key variables (p < 0.05 across 3 test scenarios)
+> Correlation matrix identifying Z3's strong relationship with vehicle-related incidents and homicide, and Z5's proximity to larceny offenses
 
-📍 Key findings:
+**Key findings:**
 • Larceny dominates at 28% of all cases; 23C is the leading incident type across all categories
 • Vehicle-related incidents represent only 7% of total cases with a downward trend
 • Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights
