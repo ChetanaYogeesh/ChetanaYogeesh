@@ -51,6 +51,16 @@ A collection of end-to-end data projects spanning multiple domains:
 
 ---
 
+### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
+A dedicated repository of Python-based data engineering work, organized by tooling and framework:
+-  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
+-  [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
+-  [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
+-  [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
+- **Stack:** Python · Apache Airflow · SQL
+
+---
+
 ###  [Business Intelligence & Analysis](https://github.com/ChetanaYogeesh/BusinessAnalysis)
 Business analysis frameworks, requirements documentation, and stakeholder-ready deliverables covering problem statements, success metrics, and strategic recommendations. A collection of interactive business intelligence dashboards spanning retail sales, gaming analytics, SaaS sign-up optimization, and telecom forensics — built with **Tableau** and **Looke Studio**.
 
@@ -114,16 +124,6 @@ Developed an end-to-end crime data analytics solution analyzing 32,000+ offense 
 • Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights
 
 🛠 Tools: Looker, Statistical Hypothesis Testing (Chi-Square), Correlation Analysis
-
----
-
-### 🏗️ [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
-A dedicated repository of Python-based data engineering work, organized by tooling and framework:
--  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
--  [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
--  [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
--  [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
-- **Stack:** Python · Apache Airflow · SQL
 
 ---
 
