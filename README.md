@@ -116,9 +116,9 @@ Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patro
 ###  [Fun Projects](https://github.com/ChetanaYogeesh/ProductDevelopment)
 
 #### 1. [Wine API SaaS](https://github.com/ChetanaYogeesh/wine-api-saas)
-#### 2. [eCommerce Website](https://github.com/ChetanaYogeesh/v0-grocery-ecommerce-website-58)
-
 A production-ready Wine API platform with 32,780 wine records, built with FastAPI, PostgreSQL, and Next.js.
+#### 2. [eCommerce Website](https://github.com/ChetanaYogeesh/v0-grocery-ecommerce-website-58)
+A full-featured, HEB-inspired grocery ecommerce website built with Next.js and deployed on Vercel. FreshMart covers the complete customer journey — from browsing the homepage to checking out.
 
 ---
 
