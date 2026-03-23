@@ -8,8 +8,9 @@
 
 I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Market) Engineering, with hands-on experience building end-to-end data pipelines, marketing analytics platforms, and AI-powered applications. I thrive at the intersection of data infrastructure and business impact — translating raw data into actionable insights that drive growth.
 
-- 🌱 Exploring **Generative AI** application development and **Model Context Protocol (MCP)** integrations
+- 🤖 Building real-world data and AI applications using Claude Code and Cursor — from ETL pipelines to multi-agent workflows with CrewAI
 - 💡 Passionate about data quality, scalable pipelines, and data-driven decision making
+- 🌱 Exploring **Generative AI** application development and **Model Context Protocol (MCP)** integrations
 - 🛠️ Building with **dbt · Python · SQL · Streamlit · AWS · Looker · Tableau**
   
 [Featured Projects](#featured-projects)&nbsp;&nbsp;&nbsp; [Skills & Technologies](#-skills--technologies)&nbsp;&nbsp;&nbsp;  [Connect With Me](#-connect-with-me)
