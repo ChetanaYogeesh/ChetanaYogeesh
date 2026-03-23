@@ -20,7 +20,7 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 ## Featured Projects
 
 - [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
-- [GenAI App Development — AI Academic Papers Tracker](#genai-app-development--ai-academic-papers-tracker)
+- [GenAI App Development](#genai-app-development)
 - [Data Analytics](#data-analytics)
 - [Business Intelligence & Analysis](#business-intelligence--analysis)
 - [Data Engineering Projects](#-data-engineering-projects)
@@ -29,14 +29,14 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 ### [GenAI App Development](https://github.com/ChetanaYogeesh/GenAIAppDevelopment)
 
-#### [Advanced Audience Intelligence - Real Time Enrichment](https://github.com/ChetanaYogeesh/Advanced-Audience-Intelligence-Real-Time-Enrichment)
-A multi-agent AI system built with [crewAI](https://crewai.com) that analyzes seed audience data, enriches customer profiles, builds lookalike personas, and generates actionable targeting strategies — all in a fully automated pipeline.
+- #### [Advanced Audience Intelligence - Real Time Enrichment](https://github.com/ChetanaYogeesh/Advanced-Audience-Intelligence-Real-Time-Enrichment)
+    A multi-agent AI system built with [crewAI](https://crewai.com) that analyzes seed audience data, enriches customer profiles, builds lookalike personas, and generates actionable targeting strategies — all in a fully automated pipeline.
 
-#### [AI Academic Papers Tracker](https://github.com/ChetanaYogeesh/market-data-pipeline)
-A production-ready ETL pipeline that extracts AI/ML research papers from the **OpenAlex API**, stores deduplicated data in a serverless PostgreSQL database (Neon), and visualizes results via an interactive **Streamlit** dashboard.
+- #### [AI Academic Papers Tracker](https://github.com/ChetanaYogeesh/market-data-pipeline)
+    A production-ready ETL pipeline that extracts AI/ML research papers from the **OpenAlex API**, stores deduplicated data in a serverless PostgreSQL database (Neon), and visualizes results via an interactive **Streamlit** dashboard.
 
-- **Stack:** Python · OpenAlex API · Neon (PostgreSQL) · Streamlit · Cursor AI
-- **Live App:** [market-data-pipeline on Streamlit](https://market-data-pipeline-6u2ncxrf6rctktgzwaluzv.streamlit.app/)
+  - **Stack:** Python · OpenAlex API · Neon (PostgreSQL) · Streamlit · Cursor AI
+  - **Live App:** [market-data-pipeline on Streamlit](https://market-data-pipeline-6u2ncxrf6rctktgzwaluzv.streamlit.app/)
 
 ---
 
