@@ -135,9 +135,10 @@ A dedicated repository of Python-based data engineering work, organized by tooli
 
 **Data Analysis & BI**
 `Jupyter Notebook` `Pandas` `Data Visualization` `Cohort Analysis`
+
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChetanaYogeesh-181717?style=flat&logo=github)](https://github.com/ChetanaYogeesh)
 
