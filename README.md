@@ -20,13 +20,13 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 ## Featured Projects
 
 - [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
-- [Agentic AI / RAG / MCP Servers Projects](#genai-app-development)
+- [Agentic AI | RAG | MCP Servers Projects](#agentic-ai--rag--mcp-servers-projects)
 - [Data Analytics](#data-analytics)
 - [Business Intelligence & Analysis](#business-intelligence--analysis)
 - [Data Engineering Projects](#-data-engineering-projects)
 
 
-### [Agentic AI / RAG / MCP Servers Projects]
+### [Agentic AI | RAG | MCP Servers Projects]
 
 - #### [Advanced Audience Intelligence - Real Time Enrichment](https://github.com/ChetanaYogeesh/Advanced-Audience-Intelligence-Real-Time-Enrichment)
     A multi-agent AI system built with [crewAI](https://crewai.com) that analyzes seed audience data, enriches customer profiles, builds lookalike personas, and generates actionable targeting strategies — all in a fully automated pipeline.
