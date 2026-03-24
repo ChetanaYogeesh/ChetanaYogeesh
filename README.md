@@ -20,14 +20,14 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 ## Featured Projects
 
 - [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
-- [GenAI App Development](#genai-app-development)
+- [Agentic AI / RAG / MCP Servers Projects](#genai-app-development)
 - [Data Analytics](#data-analytics)
 - [Business Intelligence & Analysis](#business-intelligence--analysis)
 - [Data Engineering Projects](#-data-engineering-projects)
 
 
 
-### [GenAI App Development](https://github.com/ChetanaYogeesh/GenAIAppDevelopment)
+### [Agentic AI / RAG / MCP Servers Projects]
 
 - #### [Advanced Audience Intelligence - Real Time Enrichment](https://github.com/ChetanaYogeesh/Advanced-Audience-Intelligence-Real-Time-Enrichment)
     A multi-agent AI system built with [crewAI](https://crewai.com) that analyzes seed audience data, enriches customer profiles, builds lookalike personas, and generates actionable targeting strategies — all in a fully automated pipeline.
@@ -37,6 +37,8 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
   - **Stack:** Python · OpenAlex API · Neon (PostgreSQL) · Streamlit · Cursor AI
   - **Live App:** [market-data-pipeline on Streamlit](https://market-data-pipeline-6u2ncxrf6rctktgzwaluzv.streamlit.app/)
+    
+- #### [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 
 ---
 
@@ -59,7 +61,6 @@ A collection of end-to-end data projects spanning multiple domains:
 
 ### [Data Engineering Projects](https://github.com/ChetanaYogeesh/DataEngineering)
 A dedicated repository of Python-based data engineering work, organized by tooling and framework:
--  [**MCP Weather Server**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/ModelContextProtocol-Server-Weather) — Model Context Protocol server integration
 -  [**Airflow**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Airflow) — DAGs and workflow orchestration pipelines built with Apache Airflow
 -  [**Python**](https://github.com/ChetanaYogeesh/DataEngineering/tree/main/Python%20) — Python scripts for data ingestion, transformation, and pipeline automation
 -  [**Change Data Capture**](https://github.com/ChetanaYogeesh/PortfolioProjects/tree/main/Data%20Engineering/ChangeDataCaptureUsingDataBricks-Glue-Spark-DMS) — CDC pipeline using Databricks · AWS Glue · Spark · DMS
