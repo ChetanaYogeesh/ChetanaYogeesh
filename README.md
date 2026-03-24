@@ -19,8 +19,8 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 
 ## Featured Projects
 
+- [Agentic AI | RAG | MCP Servers](#agentic-ai--rag--mcp-servers-projects)
 - [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
-- [Agentic AI | RAG | MCP Servers Projects](#agentic-ai--rag--mcp-servers-projects)
 - [Data Analytics](#data-analytics)
 - [Business Intelligence & Analysis](#business-intelligence--analysis)
 - [Data Engineering Projects](#-data-engineering-projects)
