@@ -26,7 +26,7 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - [Data Engineering Projects](#-data-engineering-projects)
 
 
-### [Agentic AI | RAG | MCP Servers Projects]
+### [Agentic AI | RAG | MCP Servers Projects](https://github.com/ChetanaYogeesh/GenAIAppDevelopment)
 
 - #### [Advanced Audience Intelligence - Real Time Enrichment](https://github.com/ChetanaYogeesh/Advanced-Audience-Intelligence-Real-Time-Enrichment)
     A multi-agent AI system built with [crewAI](https://crewai.com) that analyzes seed audience data, enriches customer profiles, builds lookalike personas, and generates actionable targeting strategies — all in a fully automated pipeline.
