@@ -22,8 +22,8 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - [Agentic AI | RAG | MCP Servers](#agentic-ai--rag--mcp-servers-projects)
 - [Analytics Engineering — Facebook Ads dbt Platform](#analytics-engineering--facebook-ads-dbt-platform)
 - [Data Analytics](#data-analytics)
-- [Business Intelligence & Analysis](#business-intelligence--analysis)
-- [Data Engineering Projects](#-data-engineering-projects)
+- [Business Intelligence & Business Analysis](#business-intelligence--analysis)
+- [Data Engineering](#-data-engineering-projects)
 
 
 ### [Agentic AI | RAG | MCP Servers Projects](https://github.com/ChetanaYogeesh/GenAIAppDevelopment)
