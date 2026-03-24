@@ -26,7 +26,6 @@ I'm a data professional specializing in Analytics Engineering and GTM (Go-To-Mar
 - [Data Engineering Projects](#-data-engineering-projects)
 
 
-
 ### [Agentic AI / RAG / MCP Servers Projects]
 
 - #### [Advanced Audience Intelligence - Real Time Enrichment](https://github.com/ChetanaYogeesh/Advanced-Audience-Intelligence-Real-Time-Enrichment)
